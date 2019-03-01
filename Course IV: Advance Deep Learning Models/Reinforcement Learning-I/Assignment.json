@@ -1,0 +1,19 @@
+[{
+	"title": "Assignment",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "filesubmission",
+		"questionText": [
+			{
+				"text": "Please find the pdf and  zip file"
+			},
+			{
+			"attachment": ["rl_recitation_12.pdf"]
+			},
+			{
+			"attachment": ["recitation-13.zip"]
+			}
+		]
+	}]
+	}
+]

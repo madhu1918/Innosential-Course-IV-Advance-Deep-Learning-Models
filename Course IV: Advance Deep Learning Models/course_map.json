@@ -1,0 +1,98 @@
+{
+    "activities": [],
+    "learningObjectives": [],
+    "overview": [
+        "<ul style=list-style-type:none><li>Unit : 19<ol type=1><li>Regularization</li></li></ol><li>Unit : 20<ol type=1><li>Transfer Learning</li></li></ol><li>Unit : 21<ol type=1><li>Hopfield Networks</li><li>Boltzmann Machines</li></li></ol><li>Unit : 22<ol type=1><li>Training Hopfield Networks</li><li>Stochastic Hopfield Networks</li></li></ol><li>Unit : 23<ol type=1><li>Restricted Boltzmann Machines</li><li>Deep Boltzmann Machines</li></li></ol><li>Unit : 24<ol type=1><li>Reinforcement Learning 1</li></li></ol><li>Unit : 25<ol type=1><li>Reinforcement Learning 2</li></li></ol><li>Unit : 26<ol type=1><li>Reinforcement Learning 3</li></li></ol><li>Unit : 27<ol type=1><li>Reinforcement Learning 4</li></li></ol><li>Unit : 28<ol type=1><li>Q Learning Deep Q Learning</li></li></ol><br>1. Case Study:Computer Vision (auto-colorization of b/w images; attention)<br>2. Case Study:Natural Language Processing (caption generation, Word2Vec)"
+    ],
+    "short_description": " This course covers Language Models, Sequence to Sequence Models, Attention Models, Deep Boltzmann Machine, Hopfield Network, Autoencoders, Reinforcement Learning, Deep Q Models, Deep Learning Model in Production Environment.<br><b>Projects Covered in the Course.</b><br>Medical Image Analysis, Stock Broking with Deep Q Learning, Recommender Systems with Deep Learning, Multi Agent System.",
+    "image": "adv_deep_learning_models.png",
+    "instructors": [{
+    "name": "Vijay Gabale",
+    "profile_url": "http://innosential.com/vijay-gabale",
+    "image": "vijay.jpg"
+    }, {
+    "name": "Ajit Jaokar",
+    "profile_url": "http://innosential.com/ajit-jaokar",
+    "image": "Ajit.jpg"
+    }, {
+    "name": "Dipanjan Sarkar",
+    "profile_url": "http://innosential.com/dipanjan-sarkar",
+    "image": "Dipanjan.png"
+    }],
+    "title": "Course IV: Advance Deep Learning Models",
+    "units": [
+        {
+            "activities": [
+                "Lecture 17: GANs",
+                "Lecture 18: GANS part-2",
+                "Assignment"
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors": [
+                "Vijay Gabale"
+            ],
+            "title": "Generative Adversarial Networks"
+        },
+        {
+            "activities": [
+                "Lecture 20: Hopfield Networks 1"
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors": [
+                "Navin Manasvi"
+            ],
+            "title": "Neural Networks Hopfield Nets and Auto Associators"
+        },
+        {
+            "activities": [
+                "Lecture 21: Hopfield Networks 2",
+                "Lecture 22: Boltzmann Machines",
+                "Assignment"
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors": [
+                "Navin Manasvi"
+            ],
+            "title": "Neural Networks Hopfield Nets and Boltzmann Machines"
+        },
+        {
+            "activities": [
+                "Lecture 23: Reinforcement Learning",
+                "Lecture 24: Reinforcement Learning-II",
+                "Assignment"
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors": [
+                "Vijay Gabale"
+            ],
+            "title": "Reinforcement Learning-I"
+        },
+        {
+            "activities": [
+                "Lecture 25: Reinforcement Learning-3",
+                "Lecture 27: Reinforcement Learning(3)",
+                "Lecture 28: Reinforcement Learning(4)"
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "instructors": [
+                "Navin Manasvi"
+            ],
+            "title": "Reinforcement Learning-II"
+        }
+    ]
+}
